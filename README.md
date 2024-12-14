@@ -1,4 +1,6 @@
 # The Maze
+**Programming Fundamentals (PF) Semester Project (CT-24141) - NEDUET - CSIT**
+
 The Maze is a basic game where you start off at the entrance of the maze, your goal is to reach the end of the maze where there is an opening available.
 
 ![Title Screen](https://lh3.googleusercontent.com/pw/AP1GczMaFq15M4EpsdPWMiXm71oE9pa4TcDpOMTLp4rO8fXoLcfY9wBpvzwTvmwxDCq9t0zHCENTpqVAjBZe3aF0OA81_4gzzLVPak7KbkaF6KnWQiDHWXZdyL8NzqmPJoad5VKYh3cYbAoPz4EAAEY2qsG5=w657-h295-s-no?authuser=0)
