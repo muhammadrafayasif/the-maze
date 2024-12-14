@@ -23,7 +23,7 @@ The program also uses ASCII codes like
 
 > These ASCII codes may not work on every system, as the application is specifically targeted towards Windows systems and is meant to run on the terminal.
 
-Since these ASCII values directly alter the players position by erasing the players character and drawing it to the next position based on user input, the maze is only drawn once. This prevents the jittery effect the occurs when constantly refreshing the screen, so the movement appears smooth.
+Since these ASCII values directly alter the players position by erasing the players character and drawing it to the next position based on user input, the maze is only drawn once. This prevents the jittery effect that occurs when constantly refreshing the screen, so the movement appears smooth.
 
 # Drawbacks
 * Since the program directly tracks the X and Y coordinates of the terminal, it is dependent upon it, therefore resizing the window of the terminal may cause unexpected issues on the player position being drawn.
